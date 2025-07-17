@@ -1,20 +1,28 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hey 👋 What's up?
 
 ###
 
-<p align="left">My name is Jon. I'm a Systems Engineer, currently living in Maryland. I'm a Linux SME and self-hosting enthusiast.</p>
+My name is **Jon**. I'm a **Systems Engineer**, currently living in Maryland. I'm a **Linux SME** and **self-hosting enthusiast**.
 
 ###
 
-<h2 align="left">About me</h2>
+## About me<
 
 ###
 
-<p align="left">✨ Creating bugs since before GitHub existed! Remeber the days of CVS and SVN?<br>📚 I'm currently learning: Go, NixOS<br>🎯 Aspiring DevOps Engineer<br>🎲 Fun fact: My love for Linux began with running Red Hat Linux (2003) on a computer built from spare parts. The primary purpose was to run ShowEQ, the packet analyzer for EverQuest. I soon graduated to Ubuntu and began my journey into self-hosting.<br><br>I currently run a Proxmox cluster at home with 5 nodes that I use as my self-hosting playground.</p>
+✨ **Creating bugs since:** before GitHub existed! Remeber the days of CVS and SVN?
+
+📚 **I'm currently learning:** Go, NixOS
+
+🎯 **Aspiring DevOps Engineer**
+
+🎲 **Fun fact:** My love for Linux began with running Red Hat Linux 8 (2002) on a computer built from spare parts. The primary purpose was to run ShowEQ (compiled from source); the packet analyzer for EverQuest. I soon graduated to Ubuntu and began my love affair with Linux and self-hosting.
+
+I currently run a Proxmox cluster at home with 5 nodes that I use as my self-hosting playground.
 
 ###
 
-<h2 align="left">I work with</h2>
+## I work with
 
 ###
 
@@ -30,6 +38,10 @@
   <img src="https://skillicons.dev/icons?i=ansible" height="32" alt="ansible logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="32" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="32" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="32" alt="powershell logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="32" alt="go logo"  />
   <img width="12" />
