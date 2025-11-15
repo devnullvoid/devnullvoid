@@ -6,7 +6,7 @@ My name is **Jon**. I'm a **Systems Engineer**, currently living in Maryland. I'
 
 ###
 
-## About me<
+## About me
 
 ###
 
