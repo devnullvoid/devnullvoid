@@ -14,7 +14,7 @@ My name is **Jon**. I'm a **Systems Engineer**, currently living in Maryland. I'
 
 📚 **I'm currently learning:** Go, NixOS
 
-🎯 **Aspiring DevOps Engineer**
+🎯 **Aspiring DevOps Engineer** Know anyone that's hiring? 😉
 
 🎲 **Fun fact:** My love for Linux began with running Red Hat Linux 8 (2002) on a computer built from spare parts. The primary purpose was to run ShowEQ (compiled from source); the packet analyzer for EverQuest. I soon graduated to Ubuntu and began my love affair with Linux and self-hosting.
 
