@@ -16,7 +16,7 @@ My name is **Jon**. I'm a **Systems Engineer**, currently living in Maryland. I'
 
 🎯 **Aspiring DevOps Engineer** Know anyone that's hiring? 😉
 
-🎲 **Fun fact:** My love for Linux began with running Red Hat Linux 8 (2002) on a computer built from spare parts. The primary purpose was to run ShowEQ (compiled from source); the packet analyzer for EverQuest. I soon graduated to Ubuntu and began my love affair with Linux and self-hosting.
+🎲 **Fun fact:** My love for Linux began with running Red Hat Linux 8 (2002) on a computer built from spare parts. The primary purpose was to run ShowEQ; the packet analyzer for EverQuest (compiled from source despite rpm/dependency hell). I soon graduated to Debian/Ubuntu... and thus began my love affair with Linux and self-hosting.
 
 I currently run a Proxmox cluster at home with 5 nodes that I use as my self-hosting playground.
 
