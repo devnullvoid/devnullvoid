@@ -12,13 +12,15 @@ My name is **Jon**. I'm a **Systems Engineer**, currently living in Maryland. I'
 
 ✨ **Creating bugs since:** before GitHub existed! Remeber the days of CVS and SVN?
 
-📚 **I'm currently learning:** Go, NixOS
+📚 **I'm currently learning:** Go, Ansible, Terraform, AI
 
-🎯 **Aspiring DevOps Engineer** Know anyone that's hiring? 😉
+🎯 **Aspiring DevOps/Automation Engineer** Know anyone that's hiring? 😉
 
 🎲 **Fun fact:** My love for Linux began with running Red Hat Linux 8 (2002) on a computer built from spare parts. The primary purpose was to run ShowEQ; the packet analyzer for EverQuest (compiled from source despite rpm/dependency hell). I soon graduated to Debian/Ubuntu... and thus began my love affair with Linux and self-hosting.
 
-I currently run a Proxmox cluster at home with 5 nodes that I use as my self-hosting playground.
+I currently run a Proxmox cluster at home with 7 nodes that I use as my self-hosting playground.
+
+I have a black (void) cat named Nully 🐈‍⬛ 
 
 ###
 
