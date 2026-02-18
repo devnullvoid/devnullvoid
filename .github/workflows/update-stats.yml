@@ -16,6 +16,7 @@ jobs:
       - uses: stats-organization/github-readme-stats-action@v1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          card: stats top-langs
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update GitHub stats"
