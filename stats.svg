@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Jon Rogers' GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 927, Total Commits  : 2121, Total PRs: 33, Total Issues: 8, Contributed to (last year): 10</desc>
+        <desc id="descId">Total Stars Earned: 927, Total Commits  : 2122, Total PRs: 33, Total Issues: 8, Contributed to (last year): 10</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 86.44293200202134;
+        stroke-dashoffset: 86.43625965011667;
       }
     }
   
